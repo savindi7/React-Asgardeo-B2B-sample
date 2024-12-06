@@ -1,0 +1,7 @@
+.organization-select {
+    padding: 20px;
+
+    .organization-select-label {
+        padding-right: 10px;
+    }
+}

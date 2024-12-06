@@ -1,0 +1,7 @@
+{
+    "signInRedirectURL": "http://localhost:5173",
+    "signOutRedirectURL": "http://localhost:5173",
+    "clientID": "92qJ6T7ddaogyEu4LttdnDOdUJoa",
+    "baseUrl": "https://api.asgardeo.io/t/savindi",
+    "scope": [ "internal_login", "openid","profile", "internal_organization_create", "internal_organization_view", "internal_organization_update", "internal_organization_delete", "internal_org_organization_update", "internal_org_organization_create", "internal_org_organization_view", "internal_org_organization_delete" ]
+}
